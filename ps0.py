@@ -11,23 +11,23 @@ import math
     
 #1. Asks the user to enter a number “x” 
 
-x_input = input("Please enter a number x: ")
+x_input = input("Enter a number x: ")
 
 x = float(x_input)
 
 #2. Asks the user to enter a number “y”
 
-y_input = input("Please enter a number y: ")
+y_input = input("Enter a number y: ")
 
 y = float(y_input)
 
 #3. Prints out number “x”, raised to the power “y”. 
 
 print(x)
-x = x**y
+x**y
 
 #4. Prints out the log (base 2) of “x”.
 
-log_base_2 = math.log2(x)
+log_x = math.log2(x)
 
-print(log_base_2)
+print(log_x)
