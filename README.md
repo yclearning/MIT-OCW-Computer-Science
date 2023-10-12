@@ -24,7 +24,7 @@ Below is the complete course list that I am planning to work on:
     - `6.0002` Introduction to Computational Thinking and Data Science
 
 2. **Foundational Computer Science Courses:**
-    - `6.001` Structure and Interpretation of Computer Programs (historical but not currently active)
+    - `6.001` Structure and Interpretation of Computer Programs
     - `6.004` Computation Structures
     - `6.006` Introduction to Algorithms
     - `6.009` Fundamentals of Programming
@@ -56,6 +56,6 @@ Below is the complete course list that I am planning to work on:
     - `6.207J` Networks
 
 9. **Advanced Study in Specific Areas:**
-	- `6.088` - Introduction to C Memory Management and C++: This is a specific course that focuses on C and C++ memory management and programming techniques.
-	- `6.375` - Complex Digital Systems**: While not exclusively focused on C/C++, this course may involve the use of these languages for designing complex digital systems.
+    - `6.088` - Introduction to C Memory Management and C++: This is a specific course that focuses on C and C++ memory management and programming techniques.
+    - `6.375` - Complex Digital Systems**: While not exclusively focused on C/C++, this course may involve the use of these languages for designing complex digital systems.
 
